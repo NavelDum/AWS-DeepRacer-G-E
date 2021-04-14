@@ -1,8 +1,10 @@
 # AWS-DeepRacer-G-E
 This repository is meant to document the progress made for the AWS DeepRacer autonomous vehicle as part of the Computer Science Senior Capstone at Pepperdine University.
 * The *Logs* folder contains training and evaluation logs resulting from the various models produced and tested in DeepRacer.
+* The *Milestone Progress* folder contains images relating to big (or rather surprising) milestones achieved when testing a reward function such as placing 5th place using a basic reward function
 * The *RewardFunctions* folder contains the various reward functions implemented or currently being worked on in order to document and gauge the changes made over time to the reward function.
-* The *Statistics* folder contains the analytics of different logs for the purpose of being able to easily distinguish differences between two implementations of a model. Currently, statistics are being analysed via DeepRacer Analysis, a tool created by AWS employees and DeepRacer community members to help visualize log statistics. DeepRacer Analysis is achieved using Jupyter Notebooks which is an application that allows Python code to be written and executed on a browser.
+* The *Track Images* folder contains image references to the tracks we have trained on so far
+* The *Training Graphs* folder contains the Training Graphs obtained during each training session with a model
 
 References
 - https://github.com/aws-deepracer-community/deepracer-analysis/ 
