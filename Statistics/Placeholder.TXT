@@ -1,1 +1,0 @@
-This text file only exists so that this folder can exist on GitHub because a folder apparently needs something inside of it.
